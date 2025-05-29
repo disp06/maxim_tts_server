@@ -24,9 +24,9 @@ git clone https://github.com/ваш-пользователь/tts-server.git
 cd tts-server
 ```
 2. Установите зависимости:
-   ```bash
-   pip install flask pyttsx3 pywin32
-   ```
+ ```bash
+ pip install flask pyttsx3 pywin32
+ ```
 3. Создайте необходимые директории:
    ```bash
     uploads
