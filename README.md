@@ -27,10 +27,6 @@ cd tts-server
  ```bash
  pip install flask pyttsx3 pywin32
  ```
-3. Создайте необходимые директории:
-   ```bash
-    uploads
-    static/audio
 
 #Структура проекта
 ```bash
