@@ -28,7 +28,7 @@ cd tts-server
  pip install flask pyttsx3 pywin32
  ```
 
-#Структура проекта
+## Структура проекта
 ```bash
 tts-server/
 +-- app.py             # Основной скрипт сервера
@@ -40,10 +40,10 @@ tts-server/
 L-- README.md
 ```
 
-#Запуск сервера
+## Запуск сервера
 
  ```bash
  python app.py
  ```
 
-Сервер после этого будет доступен по адресу http://localhost:5050
+## Сервер после этого будет доступен по адресу http://localhost:5050
